@@ -4,11 +4,13 @@ public class GitTest {
     //psvm快捷键
     public static void main(String[] args) {
         System.out.println("Hello Git!");
-        System.out.println("Hello ZZQ! master");
+        System.out.println("Hello ZZQ!");
         System.out.println("Hello World!");
         System.out.println("master test!");
         System.out.println("Hello Git2");
         System.out.println("hotfix test!");
+        System.out.println("hotfix test2!");
+        System.out.println("hotfix test3!");
         System.out.println("Hello Git3");
         System.out.println("master test!");
         System.out.println("hotfix test!");
