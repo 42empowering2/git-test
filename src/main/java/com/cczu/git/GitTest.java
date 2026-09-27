@@ -8,11 +8,7 @@ public class GitTest {
         System.out.println("Hello World!");
         System.out.println("master test!");
         System.out.println("Hello Git2");
-        System.out.println("hotfix test!");
-        System.out.println("hotfix test2!");
-        System.out.println("hotfix test3!");
         System.out.println("Hello Git3");
-        System.out.println("master test!");
-        System.out.println("hotfix test!");
+        System.out.println("Pull test");
     }
 }
